@@ -1,0 +1,3 @@
+https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging
+
+https://github.com/cjlotz/Xamarin.Plugins/blob/master/Messaging/Details.md
